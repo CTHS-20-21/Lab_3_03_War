@@ -25,11 +25,17 @@ print("The starter deck looks like this:\n" + str(deck)) # delete this line of c
 # Arguments: player_name as string, deck as list
 # returns: integer
 
+#### Your code for player_turn here:
+
 
 # Finish the contract and write the function based on the contract
 # name: compare_scores (Write your own contract!)
 # purpose:
 # Arguments:
 # returns:
+#### Your code for compare_scores here:
+
+
+#### Your code for the game 'war' here. This code should have a loop, and call player_turn and compare_scores
 
 
